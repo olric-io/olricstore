@@ -1,4 +1,4 @@
-module github.com/olric-io/olricstrore
+module github.com/olric-io/olricstore
 
 go 1.15
 
